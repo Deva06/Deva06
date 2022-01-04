@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deva06
 - 👀 I’m interested in Web Designing and development.
-- 🌱 I’m currently learning Data Science and Machine learning.
+- 🌱 I’m currently learning Data Science.
 - 📫 How to reach me
 gmail- thogati.devaharsha.18ece@bmu.edu.in
 
